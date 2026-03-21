@@ -1,6 +1,5 @@
 # Salesforce Data Cloud Architect's Skill
 
-**Source**: *Salesforce Data Cloud Architect's Handbook* (2nd Edition, 2025) by Eliot Harper  
 **Purpose**: Reference knowledge base for designing, integrating, and activating customer data solutions using Salesforce Data Cloud.
 
 ---
