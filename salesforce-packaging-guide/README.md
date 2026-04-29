@@ -1,0 +1,1 @@
+Skill file created from - https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf
